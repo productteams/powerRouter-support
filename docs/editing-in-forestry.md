@@ -1,7 +1,7 @@
 ---
-title: Forestry CMS
-date: 2020-01-02
-slug: forestry-cms
+title: powerRouter support
+date: 2020-07-02
+slug: powerrouter
 
 ---
 ## Import starter
